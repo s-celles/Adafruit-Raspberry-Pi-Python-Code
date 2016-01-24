@@ -1,0 +1,1 @@
+from .Adafruit_ADXL345 import Adafruit_ADXL345
